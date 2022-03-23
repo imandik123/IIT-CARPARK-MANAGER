@@ -1,2 +1,2 @@
 # IIT-CARPARK-MANAGER 
-OOD Coursework [individual submissions]
+This was a car park manager designed to allow different types of vehicles to park their car in different floors and according to the space availability
